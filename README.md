@@ -2,7 +2,7 @@
 
 🎓 MCA Student at BIT Mesra
 
-💻 Interested in Artificial Intelligence, Machine Learning, and Software Development.
+💻 Interested in Artificial Intelligence, Machine Learning, Software Development and Data Science.
 
 ## Currently
 
@@ -19,7 +19,7 @@ C • C++ • Python • JavaScript • PHP • SQL • HTML • CSS
 
 **Tools & Technologies**
 
-React • Node.js • MySQL • Git • GitHub • TensorFlow • AWS • VS Code
+ • MySQL • Git • GitHub • TensorFlow • AWS • VS Code
 
 ## Featured Projects
 
@@ -27,11 +27,6 @@ React • Node.js • MySQL • Git • GitHub • TensorFlow • AWS • VS Cod
 - **E-Votify** – Online voting platform.
 - **Portfolio Website** – Personal portfolio built with React.
 
-## GitHub Stats
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragkrgupta&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragkrgupta&layout=compact&theme=github_dark&hide_border=true)
 
 ## Connect
 
