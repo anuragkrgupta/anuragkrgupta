@@ -1,53 +1,157 @@
-<h2 align="left">Hi 👋! My name is Anurag</h2>
+<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
+<h3 align="center">MCA Student @ BIT Mesra | AI/ML Enthusiast | Full-Stack Developer | DSA Learner</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Learning+DSA+%26+System+Design;Exploring+Machine+Learning+%26+Computer+Vision;Always+Learning+Something+New" />
+</p>
 
-<div align="center">
-</div>
+---
 
-###
+## 🚀 About Me
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ1dWx5MzdxbTBvdTF2dzZjODV2eXN5bmw0ZWg3dHB1d3AzcDVpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+🎓 MCA Student at **BIT Mesra**
 
-###
+💻 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-</div>
+🌱 Currently learning
+- Data Structures & Algorithms (C++)
+- Machine Learning
+- System Design
+- AWS Cloud
 
-###
+🔭 Currently working on
+- **VISION** — AI-powered assistant for visually impaired people
+- Personal Portfolio
+- DSA Practice
 
+🎯 Goal
+> Become a Software Engineer specializing in AI/ML while building impactful products.
 
+---
 
-###
+## 🛠️ Tech Stack
 
-<br clear="both">
+### Languages
 
-<!-- <img src="https://raw.githubusercontent.com/anuragkrgupta/anuragkrgupta/output/snake.svg" alt="Snake animation" /> -->
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,php,html,css,sql" />
+</p>
 
-###
+### Frameworks & Libraries
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,bootstrap,tailwind" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 👁️ VISION
+AI-powered object detection assistant designed for visually impaired users.
+
+✨ Features
+- Real-time Object Detection
+- Voice Assistance
+- Text Reading
+- Navigation Support
+- Emergency SOS
+
+Tech Stack:
+Python • YOLO • TensorFlow • JavaScript
+
+---
+
+### 🗳️ E-Votify
+
+A decentralized online voting platform.
+
+- Secure Authentication
+- Admin Dashboard
+- Online Voting
+- Result Management
+
+Tech:
+PHP • MySQL • JavaScript
+
+---
+
+### 🌐 Portfolio Website
+
+Modern responsive portfolio built using React and Tailwind CSS.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragkrgupta&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkrgupta&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragkrgupta&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragkrgupta&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 AI & Computer Vision Projects
+
+🏅 AWS Cloud Practitioner Learning
+
+🏅 Full Stack Web Development
+
+🏅 Consistently Improving DSA Skills
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/anuragkumar012">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/anuragkrgupta">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
