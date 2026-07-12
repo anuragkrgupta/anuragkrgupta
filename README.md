@@ -2,13 +2,12 @@
 
 🎓 MCA Student at BIT Mesra
 
-💻 Interested in Artificial Intelligence, Machine Learning, Software Development and Data Science.
+💻 Interested in Artificial Intelligence, Machine Learning and Software Development .
 
 ## Currently
 
 - 📚 Learning Data Structures & Algorithms (C++)
 - 🤖 Exploring Machine Learning & Computer Vision
-- ☁️ Learning AWS Cloud
 - 🚀 Building projects and improving every day
 
 ## Tech Stack
@@ -19,7 +18,7 @@ C • C++ • Python • JavaScript • PHP • SQL • HTML • CSS
 
 **Tools & Technologies**
 
- • MySQL • Git • GitHub • TensorFlow • AWS • VS Code
+ • MySQL • Git • GitHub • TensorFlow • VS Code
 
 ## Featured Projects
 
