@@ -25,7 +25,7 @@ C • C++ • Python • JavaScript • PHP • SQL • HTML • CSS
 - **VISION** – AI-powered assistant for visually impaired people.
 - **E-Votify** – Online voting platform.
 - **Portfolio Website** – Personal portfolio built with React.
-- https://anurag-portfolio-ttcn.vercel.app/
+- https://anuragportfolio-dev.vercel.app/
 
 
 ## Connect
